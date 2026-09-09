@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Rubab Waheed</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Computer Science Student | AI & C++ Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubab+Waheed;Computer+Science+Student;Learning+%2C+Building+%2C+Growing;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubab+Waheed;BSCS+Student+at+IST;Interested+in+AI+%26+C%2B%2B;Learning+%2C+Building+%2C+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,33 +21,29 @@
 ```
 name:       Rubab Waheed
 role:       Computer Science Student
-focus:      [Software Development, Problem Solving, Web Development]
+degree:     BS Computer Science (2024 – 2028)
+institute:  Institute of Space Technology (IST), Islamabad
+interests:  [Artificial Intelligence, C++, Software Development]
 status:     Open to internships, collaborations & learning opportunities ✨
 ```
 
-- 🎓 Currently pursuing my degree in **Computer Science**
-- 💻 Interested in software development, and building real-world projects
-- 🌱 Currently learning and sharpening my skills in programming & problem solving
-- 🤝 Open to collaborating on interesting projects and internship opportunities
+- 🎓 Currently pursuing **BSCS** at the **Institute of Space Technology (IST)** `2024 – 2028`
+- 🤖 Interested in **Artificial Intelligence** and **C++**
+- 💻 Passionate about software development and problem solving
+- 🌱 Always learning and improving my programming skills
 - 📫 Reach me at **rubabwaheedsatti@gmail.com**
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rubab-waheed-65a07632b)** — most of my detailed background, experience, and education is there!
+- 🔗 Check out my projects and full background on my **[LinkedIn](https://www.linkedin.com/in/rubab-waheed-65a07632b)**
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web**
+### 🛠 Tech Stack / Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
 **Tools & Platforms**
 
@@ -76,28 +72,24 @@ status:     Open to internships, collaborations & learning opportunities ✨
 
 ### 🎓 Education
 
-🏫 **B.S. Computer Science** — _University Name Here_
-`Year – Year`
-
-> More about my education, coursework, and achievements is on my [LinkedIn](https://www.linkedin.com/in/rubab-waheed-65a07632b).
+🏫 **BS Computer Science** — Institute of Space Technology (IST), Islamabad
+`2024 – 2028`
 
 ---
 
 ### 🚀 Projects
 
-| Project | Description | Link |
-|---|---|---|
-| **Project Name** | Short description of what it does and the tech used | [GitHub](#) |
-| **Project Name** | Short description of what it does and the tech used | [GitHub](#) |
+> 📌 A detailed list of my projects is available on my **[LinkedIn profile](https://www.linkedin.com/in/rubab-waheed-65a07632b)** — feel free to check it out!
 
 ---
 
 ### 🎯 Goals
 
-- 📘 Strengthen my foundations in Data Structures & Algorithms
-- 💻 Build more full-stack and problem-solving projects
-- 🤝 Contribute to open-source and collaborative projects
-- 🎯 Land an internship / entry-level role in software development
+- 🤖 Deepen my knowledge in **Artificial Intelligence**
+- ⚙️ Get stronger in **C++** and Data Structures & Algorithms
+- 💻 Build and share more real-world projects
+- 🤝 Contribute to open-source and collaborate with other developers
+- 🎯 Land an internship in software development / AI
 
 ---
 
